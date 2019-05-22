@@ -1,2 +1,2 @@
 # WebApps
-My Apps I developed for Web
+My Apps developed for Web
